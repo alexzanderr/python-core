@@ -1,6 +1,12 @@
 # python-core
 powerful python package available on PyPI
 
+# see on PyPI
+[python-core](https://pypi.org/project/python-core/)
+
+# info
+at the moment there is no available description, but take a look at the files
+
 # requires python 3.7+ installed 
 ```bash
 pip install python-core
